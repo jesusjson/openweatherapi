@@ -100,9 +100,4 @@ class openWeather{
     }
 }
 
-$weather = new openWeather("istanbul","9f3e84818b28f84d9e3f9769b1075ae3");
-echo $weather -> weather(2);
-
-
-
 ?>
